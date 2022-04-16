@@ -1,0 +1,13 @@
+{
+  "name": "patternlibapi",
+  "version": "1.0.0",
+  "description": "npx kill-port 7071",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

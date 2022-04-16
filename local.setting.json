@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "node"
+    },
+    "Host": {
+      "LocalHttpPort": 5004,
+      "CORS": "http://localhost:3000,http://localhost:4200,http://localhost:5000,http://localhost:8080"
+  
+    }
+  }
